@@ -1,10 +1,11 @@
 # Table of contents
 
-* [Overview](README.md)
+* [📊 Overview](README.md)
 
-## 1. 설치 사전준비
+## 설치 사전준비
 
-* [1-1. ESXi 노드 생성](1./1-1.-esxi.md)
+* [🖥 ESXi 노드 생성](undefined/esxi.md)
+* [🔖 Yum Repository 생성](undefined/yum-repository.md)
 
 ## 네트워크 구성 및 openshift-install
 
