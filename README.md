@@ -40,4 +40,5 @@ Disconnected 환경에서는 이미지를 다운로드 할 수 없기 때문에 
    1. 노드 라벨링, Pod 이동
    2. 사용자 권한 설정
 8. Quay 구축
-9. OperatorHub 구
+9. OperatorHub 구축
+
