@@ -11,7 +11,7 @@ description: RHOCP (Red Hat OpenShift Container Platform) 설치 과정을 정�
 * DNS 주소 : `demo1.ocp4.com`
 *   노드 구성은 아래 이미지와 같음
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
